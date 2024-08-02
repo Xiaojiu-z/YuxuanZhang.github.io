@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a third-year master's student at Shanghai Jiao Tong University under the supervision of Prof. [Zhongliang Jing](https://www.baike.com/wikiid/4394903072892499317). 
-I anticipate graduating in 2025 and am looking for PhD positions. If you are interested, please feel free to contact me.
+I anticipate graduating in 2025 and am currently looking for PhD positions. If you think I might meet your requirements, please feel free to contact me.
 
 ## Research Interests
 
