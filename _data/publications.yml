@@ -1,22 +1,57 @@
 main:
-
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: "Stable-Hair: Real-World Hair Transfer via Diffusion Model"
+    authors: <strong>Yuxuan Zhang</strong>, Qing Zhang, Yiren Song, Jiaming Liu*
+    conference_short: arxiv
+    conference: arxiv.
+    pdf: https://arxiv.org/abs/2407.14078
+    code: https://github.com/Xiaojiu-z/Stable-Hair
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    
+  - title: "Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model"
+    authors: <strong>Yuxuan Zhang</strong>, Lifu Wei, Qing Zhang, Yiren Song, Jiaming Liu*
+    conference_short: arxiv
+    conference: arxiv.
+    pdf: https://github.com/Xiaojiu-z/Stable-Makeup
+    code: https://github.com/Xiaojiu-z/Stable-Makeup
+    image: ./assets/img/teaser_example_2.png
+    
+  - title: "ProcessPainter: Learn Painting Process from Sequence Data"
+    authors: Song Yiren, Huang Shijie, Yao Chen, Ye Xiaojun, Ci Hai, Liu Jiaming, <strong>Zhang Yuxuan</strong>, Mike Zheng Shou*
+    conference_short: arxiv
+    conference: arxiv.
+    pdf: https://arxiv.org/pdf/2406.06062
+    code: https://github.com/nicolaus-huang/ProcessPainter
+    image: ./assets/img/teaser_example_2.png
+    
+  - title: "SSR-Encoder: Encoding selective subject representation for subject-driven generation"
+    authors: <strong>Zhang Yuxuan</strong>, Song Yiren, Liu Jiaming, Wang, Rui, Yu Jinpeng, Tang Hao, Li Huaxia, Tang Xu, Hu Yao, Pan Han, Jing Zhongliang* (*Corresponding authors)
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    conference: The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2312.16272
+    code: https://github.com/Xiaojiu-z/SSR_Encoder
+    image: ./assets/img/teaser_example_2.png
+    
+  - title: "GeoFormer: Learning Point Cloud Completion with Tri-Plane Integrated Transformer"
+    authors: Yu Jinpeng, Huang Binbin, <strong>Zhang Yuxuan</strong>, Li Huaxia, Tang Xu, Gao Shenghua* (*Corresponding authors)
+    conference_short: ACMMM
+    conference: ACM MULTIMEDIA 2024 <strong>(ACMMM)</strong>, 2024.
+    pdf: https://openreview.net/pdf?id=65p0B1QQi9
+    code: https://github.com/Jinpeng-Yu/GeoFormer
+    image: ./assets/img/teaser_example_2.png
+
+  - title: "Fast Personalized Text to Image Synthesis with Attention Injection"
+    authors: <strong>Zhang Yuxuan</strong>, Song Yiren, Yu Jinpeng, Pan Han, Jing Zhongliang* (*Corresponding authors)
+    conference_short: ICASSP
+    conference: ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10447042
     notes: Oral Presentation
+    image: ./assets/img/teaser_example_2.png
+
+  - title: "CLIPFont: Text Guided Vector WordArt Generation"
+    authors: Song Yiren, <strong>Zhang Yuxuan</strong>
+    conference_short: BMCV
+    conference: The British Machine Vision Conference <strong>(BMCV)</strong>, 2022.
+    pdf: https://bmvc2022.mpi-inf.mpg.de/543/
+    code: https://bmvc2022.mpi-inf.mpg.de/543/
+    page: https://bmvc2022.mpi-inf.mpg.de/543/
     image: ./assets/img/teaser_example.png
