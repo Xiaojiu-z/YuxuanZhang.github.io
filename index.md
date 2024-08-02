@@ -17,5 +17,3 @@ I am a third-year master's student at Shanghai Jiao Tong University. I anticipat
 - **[Dec. 2023]** One paper is accepted to ICASSP 2024 (Oral).
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
