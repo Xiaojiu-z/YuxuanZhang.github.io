@@ -38,7 +38,7 @@ main:
     conference: ACM MULTIMEDIA 2024 <strong>(ACMMM)</strong>, 2024.
     pdf: https://openreview.net/pdf?id=65p0B1QQi9
     code: https://github.com/Jinpeng-Yu/GeoFormer
-    image: ./assets/img/7.jpg
+    image: ./assets/img/7.png
 
   - title: "Fast Personalized Text to Image Synthesis with Attention Injection"
     authors: <strong>Zhang Yuxuan</strong>, Song Yiren, Yu Jinpeng, Pan Han, Jing Zhongliang* (*Corresponding authors)
