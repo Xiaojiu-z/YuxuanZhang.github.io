@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a third-year master's student at Shanghai Jiao Tong University. I anticipate graduating in 2025 and am looking for PhD positions. If you are interested, please feel free to contact me.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** image generation/editing, video generation/editing.
+- **Multi-modal learning:** large language/vision models.
 
 ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jul. 2024]** Our paper is accepted to ACM Multimedia 2024.
+- **[Mar. 2024]** One paper is accepted to CVPR 2024 (final rating 5,5,4).
+- **[Dec. 2023]** One paper is accepted to ICASSP 2024 (Oral).
 
 {% include_relative _includes/publications.md %}
 
