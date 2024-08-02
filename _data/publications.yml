@@ -53,6 +53,6 @@ main:
     conference_short: BMCV
     conference: The British Machine Vision Conference <strong>(BMCV)</strong>, 2022.
     pdf: https://bmvc2022.mpi-inf.mpg.de/543/
-    code: https://bmvc2022.mpi-inf.mpg.de/543/
+    code: https://github.com/songyiren98/CLIPFont
     page: https://bmvc2022.mpi-inf.mpg.de/543/
     image: ./assets/img/teaser_example.png
