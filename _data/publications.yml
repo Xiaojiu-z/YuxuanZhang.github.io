@@ -17,8 +17,8 @@ main:
     
   - title: "ProcessPainter: Learn Painting Process from Sequence Data"
     authors: Song Yiren, Huang Shijie, Yao Chen, Ye Xiaojun, Ci Hai, Liu Jiaming, <strong>Zhang Yuxuan</strong>, Mike Zheng Shou*
-    conference_short: arxiv
-    conference: arxiv.
+    conference_short: SIGGRAPH Asia 2024
+    conference: SIGGRAPH Asia 2024.
     pdf: https://arxiv.org/pdf/2406.06062
     code: https://github.com/nicolaus-huang/ProcessPainter
     image: ./assets/img/4.png
