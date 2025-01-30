@@ -1,8 +1,8 @@
 main:
   - title: "Stable-Hair: Real-World Hair Transfer via Diffusion Model"
     authors: <strong>Yuxuan Zhang</strong>, Qing Zhang, Yiren Song, Jiaming Liu*
-    conference_short: arxiv
-    conference: arxiv.
+    conference_short: AAAI2025
+    conference: 39th Annual AAAI Conference on Artificial Intelligence.
     pdf: https://arxiv.org/abs/2407.14078
     code: https://github.com/Xiaojiu-z/Stable-Hair
     image: ./assets/img/1.jpg
