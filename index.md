@@ -13,6 +13,7 @@ I anticipate graduating in 2025.03 and am currently looking for PhD positions in
 - **Multi-modal learning:** large language/vision models.
 
 ## News
+- **[Dec. 2024]** One paper is accepted to AAAI 2025.
 - **[Jul. 2024]** One paper is accepted to SIGGRAPH Asia 2024.
 - **[Jul. 2024]** One paper is accepted to ACM Multimedia 2024.
 - **[Mar. 2024]** One paper is accepted to CVPR 2024 (final rating 5,5,4).
