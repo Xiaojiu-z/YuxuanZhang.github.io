@@ -29,7 +29,6 @@ main:
     conference: The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2312.16272
     code: https://github.com/Xiaojiu-z/SSR_Encoder
-    notes: Final rating 5,5,4
     image: ./assets/img/3.jpg
     
   - title: "GeoFormer: Learning Point Cloud Completion with Tri-Plane Integrated Transformer"
