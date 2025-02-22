@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a third-year master's student at Shanghai Jiao Tong University under the supervision of Prof. [Zhongliang Jing](https://www.aero.sjtu.edu.cn/En/Data/View/2189). 
+I am a third-year master's student at Shanghai Jiao Tong University under the supervision of Prof. [Zhongliang Jing](https://www.aero.sjtu.edu.cn/en/faculty/163). 
 I anticipate graduating in 2025.03 and will commence my PhD studies at The Chinese University of Hong Kong (CUHK) in 25 fall.
 
 ## Research Interests
