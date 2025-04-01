@@ -1,16 +1,16 @@
 main:
   - title: "Stable-Hair: Real-World Hair Transfer via Diffusion Model"
     authors: <strong>Yuxuan Zhang</strong>, Qing Zhang, Yiren Song, Jiaming Liu*
-    conference_short: AAAI2025
+    conference_short: AAAI 2025
     conference: 39th Annual AAAI Conference on Artificial Intelligence.
     pdf: https://arxiv.org/abs/2407.14078
     code: https://github.com/Xiaojiu-z/Stable-Hair
     image: ./assets/img/1.jpg
     
   - title: "Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model"
-    authors: <strong>Yuxuan Zhang</strong>, Lifu Wei, Qing Zhang, Yiren Song, Jiaming Liu*
-    conference_short: arxiv
-    conference: arxiv.
+    authors: <strong>Yuxuan Zhang</strong>, Yirui Yuan, Yiren Song, Jiaming Liu*
+    conference_short: SIGGRAPH 2025
+    conference: ACM SIGGRAPH.
     pdf: https://github.com/Xiaojiu-z/Stable-Makeup
     code: https://github.com/Xiaojiu-z/Stable-Makeup
     image: ./assets/img/2.jpg
@@ -25,7 +25,7 @@ main:
     
   - title: "SSR-Encoder: Encoding selective subject representation for subject-driven generation"
     authors: <strong>Zhang Yuxuan</strong>, Song Yiren, Liu Jiaming, Wang, Rui, Yu Jinpeng, Tang Hao, Li Huaxia, Tang Xu, Hu Yao, Pan Han, Jing Zhongliang* (*Corresponding authors)
-    conference_short: CVPR
+    conference_short: CVPR 2024
     conference: The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2312.16272
     code: https://github.com/Xiaojiu-z/SSR_Encoder
@@ -41,7 +41,7 @@ main:
 
   - title: "Fast Personalized Text to Image Synthesis with Attention Injection"
     authors: <strong>Zhang Yuxuan</strong>, Song Yiren, Yu Jinpeng, Pan Han, Jing Zhongliang* (*Corresponding authors)
-    conference_short: ICASSP
+    conference_short: ICASSP 2024
     conference: ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10447042
     notes: Oral Presentation
@@ -49,7 +49,7 @@ main:
 
   - title: "CLIPFont: Text Guided Vector WordArt Generation"
     authors: Song Yiren, <strong>Zhang Yuxuan</strong>
-    conference_short: BMCV
+    conference_short: BMCV 2022
     conference: The British Machine Vision Conference <strong>(BMCV)</strong>, 2022.
     pdf: https://bmvc2022.mpi-inf.mpg.de/543/
     code: https://github.com/songyiren98/CLIPFont
