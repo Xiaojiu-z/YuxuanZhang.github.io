@@ -17,7 +17,7 @@ I anticipate graduating in 2025.03 and will commence my PhD studies at The Chine
 - **[Dec. 2024]** One paper is accepted to AAAI 2025.
 - **[Jul. 2024]** One paper is accepted to SIGGRAPH Asia 2024.
 - **[Jul. 2024]** One paper is accepted to ACM Multimedia 2024.
-- **[Mar. 2024]** One paper is accepted to CVPR 2024 (final rating 5,5,4).
+- **[Mar. 2024]** One paper is accepted to CVPR 2024.
 - **[Dec. 2023]** One paper is accepted to ICASSP 2024 (Oral).
 - **[Dec. 2022]** One paper is accepted to BMCV 2022.
 
