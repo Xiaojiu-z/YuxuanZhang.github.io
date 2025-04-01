@@ -13,6 +13,7 @@ I anticipate graduating in 2025.03 and will commence my PhD studies at The Chine
 - **Multi-modal learning:** large language/vision models.
 
 ## News
+- **[Apr. 2025]** One paper is accepted to SIGGRAPH 2025.
 - **[Dec. 2024]** One paper is accepted to AAAI 2025.
 - **[Jul. 2024]** One paper is accepted to SIGGRAPH Asia 2024.
 - **[Jul. 2024]** One paper is accepted to ACM Multimedia 2024.
